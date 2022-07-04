@@ -4,7 +4,6 @@ import Sidebar from './components/Siderbar';
 import Editor from './components/Editor';
 import Split from "react-split";
 import {nanoid} from "nanoid";
-import { data } from './data';
 
 
 function App() {
